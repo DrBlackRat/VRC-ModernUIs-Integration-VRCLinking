@@ -1,0 +1,23 @@
+{
+    "name": "VRCLinkingSDK.Editor",
+    "rootNamespace": "",
+    "references": [
+        "VRCLinking.Runtime",
+        "UdonSharp.Runtime",
+        "UdonSharp.Editor",
+        "VRC.Udon",
+        "Unity.TextMeshPro",
+        "VRCLinkingAPI"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
